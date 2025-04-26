@@ -1,0 +1,4 @@
+Registros en Raw Layer: 39656598
+Registros en Trusted Layer: 38840423
+Tiempo total de ejecución: 115.46 segundos
+Ejecución exitosa.
